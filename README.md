@@ -5,6 +5,7 @@
 <img width="551" alt="スクリーンショット 2022-07-04 22 26 49" src="https://user-images.githubusercontent.com/107293947/177231765-6d5b2356-2d69-4d18-a768-77e39ef2e107.png">
 
 
+GET実行レスポンス
 <img width="1308" alt="スクリーンショット 2022-07-05 10 18 14" src="https://user-images.githubusercontent.com/107293947/177231707-30b47fc9-18c8-4145-b8f0-26ae42f09570.png">
 
 
