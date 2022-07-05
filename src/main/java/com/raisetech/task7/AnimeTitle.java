@@ -20,9 +20,9 @@ public class AnimeTitle {
 
     @GetMapping("/animes")
     public String anime (@RequestParam(value = "japan")String animation){
-        if (animation.equals("/tetuwanatomu")){
+        if (animation.equals("tetuwanatomu")){
             return "『鉄腕アトム』は、手塚治虫のSF漫画作品及び同作を原作としたテレビアニメである";
-        } else if (animation.equals(("/manzingaaz"))) {
+        } else if (animation.equals(("manzingaaz"))) {
             return "『マジンガーZ』は、永井豪の漫画、原作を共にする東映動画制作のテレビアニメである。";
         }
         return "当てはまるのがありません。（tetuwanatomu, mazingaaz";
